@@ -5,4 +5,5 @@
 ## Как пользоваться
 
 1. Создать файл .env на основе .env.example
-2. ```$ npm start``` 
+2. ```$ npm install``` 
+3. ```$ npm start``` 
